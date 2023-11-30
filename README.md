@@ -23,7 +23,7 @@ TERMUX-MOBILE IP UNBLOCKER
 - `rm -rf IP_UNBLOCKER`
 - `git clone --depth=1 https://github.com/ARN-AKING/IP_UNBLOCKER.git`
 - `cd IP_UNBLOCKER`
-- `python IP_UNBLOCKER.py`
+- `python IP_UNBLOCKER.pyc`
 
 
 
