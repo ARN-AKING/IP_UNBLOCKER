@@ -20,8 +20,8 @@ def Run():
 
         elif bit == '32bit':
         	xoss('Sorry Your Device Not Suport The Command ')
-            os.system("xdg-open https://www.facebook.com/RayeesAmir007")
-            exit()
+        	os.system("xdg-open https://www.facebook.com/RayeesAmir007")
+        	exit()
         else:
             exit('\033[1;31m[●] Connection & Network Error 🤕')
 Run()
