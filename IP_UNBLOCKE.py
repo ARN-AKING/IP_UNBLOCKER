@@ -16,7 +16,7 @@ def Run():
             xoss("\x1b[1;92m[◇] Your Device 64 BIT 💥");time.sleep(1)
             xoss("\x1b[1;92m[◇] FOLLOW MY FACEBOOK ACCOUNT");time.sleep(1)
             os.system("xdg-open https://www.facebook.com/Rayees.Amir4201/");
-            import unblock_ip_enc
+            import UN_BLOCKIP
 
         elif bit == '32bit':
         	xoss('Sorry Your Device Not Suport The Command ')
